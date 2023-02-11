@@ -1,0 +1,23 @@
+.line{
+    width: 150px;
+    margin: 10px auto;
+    background-color: black;
+    height: 10px;
+}
+
+body{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.pic1{
+    border-radius: 20px;
+}
+
+.pic2{
+    border-radius: 20px;
+}
+
+html{
+    background-color: lightpink;
+}
